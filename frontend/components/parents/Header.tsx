@@ -19,7 +19,7 @@ export default function Header() {
         <p>Parents</p>
       </div>
 
-      <div className="flex text-[13px] items-center">
+      <div className="flex text-[13px] items-center gap-3">
         <div className="flex border rounded-md px-2 py-1">
           Academic session:
           <span className="font-bold ">2024/2025</span>
@@ -41,16 +41,28 @@ export default function Header() {
               <DropdownMenuLabel>INSTITUTIONAL TENANTS (3)</DropdownMenuLabel>
               <DropdownMenuItem>
                 <div className="">
-                  <div className="">
                     <p>Apex Royal College</p>
                     <span className="text-zinc-500 text-xs">
                       Ikeja, Lagos State
                     </span>
-                  </div>
                 </div>
               </DropdownMenuItem>
-              <DropdownMenuItem>Kingsway Crown College</DropdownMenuItem>
-              <DropdownMenuItem>Broadgate academy</DropdownMenuItem>
+              <DropdownMenuItem>
+                <div className="">
+                    <p>Kingsway Crown College</p>
+                    <span className="text-zinc-500 text-xs">
+                      Victoria Island, Lagos State
+                    </span>
+                </div>
+                </DropdownMenuItem>
+              <DropdownMenuItem>
+                <div className="">
+                    <p>Broadgate academy</p>
+                    <span className="text-zinc-500 text-xs">
+                      Maitama, Abuja FCT
+                    </span>
+                </div>
+                </DropdownMenuItem>
             </DropdownMenuGroup>
           </DropdownMenuContent>
         </DropdownMenu>
