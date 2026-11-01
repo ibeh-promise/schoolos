@@ -23,7 +23,7 @@ export default function ParentDashBoard() {
       amount: "₦240,000",
       balance: "₦0",
       status: "Paid",
-      invoiceNumber: "INV-001",
+      invoiceNumber: "INV-2024-001",
       class: "jss 2 Gold",
     }
   ]
@@ -95,13 +95,16 @@ export default function ParentDashBoard() {
           <div className="border p-4 rounded-sm mt-5">
             {invoices.map((invoice, index) => (
               <div key={index} className="flex justify-between items-center">
-                <p>{invoice.ward}</p>
+                <div className="">
+                <p className="font-semibold">{invoice.ward}</p>
+                <p className="text-[12px] text-zinc-500">{invoice.invoiceNumber} . {invoice.class}</p>
+                </div>
                 <div className="">
                   <p>{invoice.amount}</p>
-                  <p>{invoice.balance}</p>
+                  <p>Bal: {invoice.balance}</p>
                   <span className={`px-2 py-1 rounded-sm text-xs ${invoice.status === 'Paid' ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'}`}>
                     {invoice.status}
-                  </span>
+                  </span> 
                 </div>
               </div>
             ))}
