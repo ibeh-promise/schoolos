@@ -9,12 +9,12 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { School } from "lucide-react";
+import { LayoutDashboard, School } from "lucide-react";
 
 export default function Sidebar() {
   return (
     <div className="bg-[#fdfcf9] h-full w-[310px] hidden md:block border-r">
-      <div className="p-4">
+      <div className="p-4 border-b ">
       <div className="flex gap-3 items-center mb-3 mr-5">
         <div className="text-center p-2 px-4  bg-black rounded-md text-white">
           S
@@ -66,6 +66,13 @@ export default function Sidebar() {
             </DropdownMenuGroup>
           </DropdownMenuContent>
         </DropdownMenu>
+      </div>
+      <div className="p-5 text-[12px]">
+            <p>OVERVIEW</p>
+            <button className="flex gap-2 items-center">
+              <LayoutDashboard/>
+              Dashboard 
+            </button> 
       </div>
     </div>
   );

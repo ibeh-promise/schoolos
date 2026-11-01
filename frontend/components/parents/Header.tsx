@@ -12,7 +12,7 @@ import {
 
 export default function Header() {
   return (
-    <div className="p-5 flex justify-between text-[13px]">
+    <div className="p-5 flex justify-between text-[13px] border-b">
       <div className="flex items-center">
         <p>SchoolOs</p>
         <ChevronRight />
