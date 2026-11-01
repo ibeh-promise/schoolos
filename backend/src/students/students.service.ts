@@ -35,7 +35,7 @@ export class StudentsService {
       this.prisma.school.findFirst({
         where: {
           id: schoolId,
-          users: { some: { staff: { userId: user.id } } },
+          users: { some: { id: user.id } },
         },
         select: { id: true },
       }),
@@ -101,6 +101,15 @@ export class StudentsService {
     });
     if (students.length === 0)
       throw new NotFoundException('No students registered yet');
+    return students;
+  }
+
+  async findMyStudents(user: User): Promise<StudentResponseDto[]> {
+    const students = await this.prisma.student.findMany({
+      where: { user: { schoolId: user.schoolId }, class: { staffId: user.id } },
+      include: { user: true },
+    });
+    if (students.length === 0) throw new NotFoundException('No students found');
     return students;
   }
 

@@ -29,6 +29,7 @@ model School {
   announcements    Announcement[]
   attendances      Attendance[]
   academicSessions AcademicSession[]
+  subjects         Subject[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -75,6 +76,7 @@ model Class {
   school      School       @relation(fields: [schoolId], references: [id], onDelete: Cascade, onUpdate: Cascade)
   schoolId    String
   attendances Attendance[]
+  subjects    Subject[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -82,6 +84,23 @@ model Class {
   @@index([staffId])
   @@index([schoolId])
   @@map("classes")
+}
+
+model Subject {
+  id String @id @default(uuid())
+
+  code     String          @unique
+  title    String
+  category SubjectCategory @default(core)
+
+  school   School  @relation(fields: [schoolId], references: [id], onDelete: Cascade)
+  schoolId String
+  classes  Class[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("subjects")
 }
 
 model Staff {
@@ -193,6 +212,7 @@ model AcademicSession {
   name      String
   startData DateTime
   endData   DateTime
+  status    AcademicSessionStatus @default(active)
 
   school   School @relation(fields: [schoolId], references: [id], onDelete: Cascade, onUpdate: Cascade)
   schoolId String
@@ -212,6 +232,7 @@ model AcademicTerm {
   name      String
   startData DateTime
   endData   DateTime
+  status    AcademicTermStatus @default(active)
 
   academicSession   AcademicSession @relation(fields: [academicSessionId], references: [id], onDelete: Cascade, onUpdate: Cascade)
   academicSessionId String
@@ -291,4 +312,19 @@ enum AttendanceStatus {
   absent
   late
   excused
+}
+
+enum AcademicTermStatus {
+  active
+  inactive
+}
+
+enum AcademicSessionStatus {
+  active
+  inactive
+}
+
+enum SubjectCategory {
+  core
+  vocational
 }
