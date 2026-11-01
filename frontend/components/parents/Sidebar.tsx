@@ -72,14 +72,14 @@ export default function Sidebar() {
       </div>
       <div className="p-5 text-[12px] w-full">
             <p className="text-xs font-semibold mt-4 text-zinc-500">OVERVIEW</p>
-            <Button variant={pathname == "/parent/ward" ? "default" : "ghost"} className="flex gap-2 items-center justify-start w-full rounded-sm">
+            <Button variant={pathname == "ward" ? "default" : "ghost"} className="flex gap-2 items-center justify-start w-full rounded-sm">
               <LayoutDashboard/>
               Dashboard 
             </Button>
 
             <p className="text-xs font-semibold my-4 text-zinc-500  ">WARD MANAGEMENT</p>
             <div className="flex flex-col gap-2">
-              <Button variant="ghost" className="flex gap-2 justify-start text-zinc-500">
+              <Button variant={pathname == "ward" ? "default" : "ghost"} className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
                   <User2 />
                <Link href="/parent/ward">
@@ -87,21 +87,24 @@ export default function Sidebar() {
                 </Link>
                   </div>  
               </Button>
-              <Button variant="ghost" className="flex gap-2 justify-start text-zinc-500">
+
+              <Button variant={pathname == "report-cards" ? "default" : "ghost"} className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
+                  <Link href="/parent/report-cards">
                   <Medal />
                   <p>Report Cards</p>
-                  </div>  
+                  </Link>
+                  </div> 
               </Button>
 
-              <Button variant="ghost" className="flex gap-2 justify-start text-zinc-500">
+              <Button variant={pathname == "wards-link" ? "default" : "ghost"} className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
                   <User2 />
                   <p>My Wards</p>Link
                   </div>  
               </Button>
               
-              <Button variant="ghost" className="flex gap-2 justify-start text-zinc-500">
+              <Button variant={pathname == "attendance" ? "default" : "ghost"} className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
                   <User2 />
                   <p>Attenendance</p>
