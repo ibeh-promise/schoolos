@@ -33,7 +33,7 @@ export class AnnouncementsService {
     return announcement;
   }
 
-  findAll() {
+  findAll(user: User) {
     return `This action returns all announcements`;
   }
 
