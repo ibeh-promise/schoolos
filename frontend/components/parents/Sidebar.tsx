@@ -11,8 +11,10 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { LayoutDashboard, School, User2, Medal } from "lucide-react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 export default function Sidebar() {
+  const pathname = usePathname();
   return (
     <div className="bg-[#fdfcf9] h-full w-[310px] hidden md:block border-r">
       <div className="p-4 border-b ">
@@ -70,7 +72,7 @@ export default function Sidebar() {
       </div>
       <div className="p-5 text-[12px] w-full">
             <p className="text-xs font-semibold mt-4 text-zinc-500">OVERVIEW</p>
-            <Button className="flex gap-2 items-center justify-start w-full rounded-sm">
+            <Button variant={pathname == "/parent/ward" ? "default" : "ghost"} className="flex gap-2 items-center justify-start w-full rounded-sm">
               <LayoutDashboard/>
               Dashboard 
             </Button>
