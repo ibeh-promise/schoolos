@@ -38,7 +38,7 @@ export default function ParentDashBoard() {
             for your ward.
           </p>
         </div>
-        <Button>Ward Term Report Card</Button>
+        <Button className="p-3 text-xs px-4 font-semibold">Ward Term Report Card</Button>
       </div>
       <div className="grid grid-cols-3 gap-5">
         <div className="p-7 border rounded-md bg-[#fdfcf9]">

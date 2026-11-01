@@ -10,6 +10,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { LayoutDashboard, School, User2, Medal } from "lucide-react";
+import Link from "next/link";
 
 export default function Sidebar() {
   return (
@@ -74,29 +75,31 @@ export default function Sidebar() {
               Dashboard 
             </Button>
 
-            <p className="text-xs font-semibold mt-4 text-zinc-500  ">WARD MANAGEMENT</p>
+            <p className="text-xs font-semibold my-4 text-zinc-500  ">WARD MANAGEMENT</p>
             <div className="flex flex-col gap-2">
-              <Button variant="ghost">
+              <Button variant="ghost" className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
                   <User2 />
-                  <p>My Wards</p>
+               <Link href="/parent/ward">
+                   <p>My Wards</p>
+                </Link>
                   </div>  
               </Button>
-              <Button variant="ghost">
+              <Button variant="ghost" className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
                   <Medal />
                   <p>Report Cards</p>
                   </div>  
               </Button>
 
-              <Button variant="ghost">
+              <Button variant="ghost" className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
                   <User2 />
-                  <p>My Wards</p>
+                  <p>My Wards</p>Link
                   </div>  
               </Button>
               
-              <Button variant="ghost">
+              <Button variant="ghost" className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
                   <User2 />
                   <p>Attenendance</p>

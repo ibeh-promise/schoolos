@@ -4,6 +4,7 @@ import { usePathname } from "next/navigation"
  import Header from "@/components/parents/Header"
  import Sidebar from "@/components/parents/Sidebar"
  
+ 
  export default function ParentsDashboardLayout({
     children
  }: {
