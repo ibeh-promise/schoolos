@@ -1,97 +1,130 @@
-jskjsjjsjsnjm jskjskn9jjnj
-ososksie kskjskisnsjdkjsnsj jjknndjisjejede
-kwowowkkksjsjks jsjdkisjusyhusjijsihs9jw jsj
-jjsjjduejeiekkekkejejjjsippii838ieieien3ispw0e7ddkmesudisjbuj jejei39oejejueueu ie7390oje ijjiijoeie9e
-iieiiiiijiieijoke9o9keokieii jeikkieiijejeejejnj jeieieie8eieijiienjen jejejejeie88ijeejkeei 
-keieiei3i3839oeoieieje ejejeje739393meow0s0pzpei8eueheje8e8eiejeiejekisieieieie8ei
-ieoororororoe99ikeeieieieo9eoeeoeieeoeoieieieieieieojsjnndjieie8ididijjdiisiidii kdiwiiiip08ijojsjsjsididn kdkeie8seijeb sisjssiiwiwie8ueue ieoororororoe99ikeeieieieo9eoeeoeieeoeoieieieieieieojsjnndjieie8ididijjdiisiidiii
-ieieidjjsein ieiekeieieii kekejeieiei8iieiiidjd jdjejdjdk isjwjwiiijsjsjjwij jsijekiiiii iwiejiii shshsisidii
-osisizikdio90pd0kmdi kdj3iieoeie9ijdid9d9dodijzn jsjdjdieieieijbjsisieieididjdjkd
-iidmmjdo0pokeiidjdjjdjd8dieieoojenebhzmkeo8diddidijen3id8didixjdj ke9ks jdidikididooiiisiizjjjd jdjdidii iidmmjdo0pokeiidjdjjdjd8dieieoojenebhzmkeo8diddidijen3id8didixjdji
-idijddiidjd abc jdkdkoabkdkdikkkdkdkd jdkdidid jdjdjdkn ndjjjd jdkjxjdjdjdnjidjdjdj jdidjdie9e8jjajs jsjs8susjsisbbsis jsjsisiisisissuuuiidiiisi
-isisiiiidnie880pldodi js8eisidiijjjjejiij nejej29292pps sjd jdje jejehe jejssoijd jdiidie jsjdjdieieieijbjsisieieididjdjkd
-diehuuu juhghuubh77yhu uuj bjjuuhb njjujjnn jxjxj iciikejeje nejej nejekeieiieieieuj jejwjwjebjejeu38ejekeiiolp9hhuuhhjjjhhh jjjuuuuhhh
-uuhhhhhhhub  jhhhv bhbvujjjjjjhbb  buuuhhbb bhuuhhujj bhiijjb nnb  jjjjbbb jjhbb  hhhh bjuhbbb hhhjjhh hjhhhhjjjjjjjjn nnjbb buuuhhbbkjjnn
-jjjbbnnnnnbnnnujbbnb hjhhbbbnbbnnn njjb bjjn nnbbnn njbb njjjjijn njjjjjnnjjjjuhhhjnnnnn nnnnnnjhnbb jbbbjnn
-jjnnjjnnnnnjjnnjjjjjn nnjjjjjjjjjjjjjj jhbbjjn bbb bnnjjjj bjnjnnn njjjjjj jjjhghui77yg  trdyhb biuuuu88iiiu
-hhhbbbh hhhhuuuuhh jjujnuuuuu jiiijjjjjn nijhhju ji7uuuuuuujjjjjjjjjjhj jwwjwj jajsj jajajjaiau jajaijjhjusiz
-ksosisjshajn  susus a ahajajajkskskaijajakwkwkkakkakskjsjsjsisnsjskidjsjjsjs jsjsbb sbsjsjsj
-ksisjsnjUuahbbajiiahjaiaia7jsjsnshbbsbjsushsjsushshshshsuhhsbbhs  bsjsjsisisusushs huuhhhhs jsjsjsbs bsjsjsj.
-  isjsjs bsjsjsjsbs jsjsjsns jsjsjsbs sjsjsjsjsjs sjsjsjshsns nsjsjsbs jj bsjsjs  ajsisi3o3ol2k29w9s8sisisisjjjjnskskisisjeieiejejiei
-ieieiieiejki3829292929o2o2ow9aowomnznizis8289299wkwkkkwn2n2jw8s828292929292owjsb  jsjsisisjsisisiieie8i8iwiwiiwiiwiw8w8wiwi
-ijsjeeiei8wuwbjwiuwuwuwuwuuuuwuwuujwiw nwka9s8829o jJsisija kaoaow9w9w9wiwiajaiwiaj jwiwiwiajaiw8w9wi299jwkwi
-owiwiwjejei jsjsjsjsjwj nsjwjisisisi hsjsjsnanajajs jauaiiija  jqjauauaua7uh1bnw88ajana jaja jaja8a8aiakna jwiwiwiajaiw8w9wi299jwkwi
-iw82992kwnqnmamkzksow929202mwnsnwb nsjsjsnsnsjw jajsiajsnsn jsjsisjs nsjsisisisjsjsns jsjsisiaisjsjjwjw jsjs jwkw9292pwlwlskssksksjs hsjsjsnanajajsi
-iwiwiiwiw jwjwiwiwiwiwj  wjwi29292k2kw9s52bwiwjns nwjwiwie8283939393olekenmdnbzbbwu29ihvujjnbb bhy457ijjjnjnko0oyt4er juuyhhuuh
-jiiiuugvnmk987543sda2578900pl9inmbcxt78hbvct5ewdf589knnmo08uhbvftxxr7ujklo998hhbbbnhvhyvhhhhh hh890p0iyrf543de3321ase5hh hhhhnndis9920ppaliw7su
-usjwnsjwueuw8e99epsolnzjnzmznzbzhwyw6617q6a5rfqvvzvbxnxmxkdlos99e82iwuwuwuwuwywgvsnmmmnbzc gwywuwi nkwo29 j2i27wuaioo ndneieieneneu jwjwwjwhwb  keieieijwjw jwjwuuw hwjw
-uausjsnwnwjwbwh  wj2i2i28wjw929282 jwjwjwuw7w jwuwuwuwj jwuw72828wijwiwiwiw nsks99mmznwo929jw ksisusuujns8suue neiei nsmsozmzoe09i2jwiwu hsjwuw88wiwi
-kwkwiiiiiwiwisiiiiw  namzkzo030292iiijjjjjjjebbmsjsizjsjeo392oolwj jwuwuwuwjiwk msismznxj38282829ojwn kaow9wpwpjjsjmeke jenekeieieie iieiiiiijiieijoke9o9keokieiio
-ow9ikeke jwieijw jwinwiw9w9wpowkw nsjejen njjskkzkso0pwljsi jwoskekio29920pekeje jsiskkoeoodoodkmn njjdi9ikd jdodod9oooodododkdk
-isie9ekejdif jdjdjdididjd jdido jrjjdndk fjxjx jdjd jdjdidid ksosisjd jsjksisosnj maos9a8wi2ij jwiwkmznzklso9w910jsjs jdjdffg ndjdi uisbjsjn sjs
-ieieiidjd jsjsjdkdidj mskskskeososossksk jsjsjdb jsjsjskkksiijj jsjsjjsisi ksoe92920lejen jsjsijskiu jsksow0202p2omkjsj jejjshsjs
-jsjsndnd jdkdid893o3kb ejejeisisj jsjdjjsj jsisie892939kbs nsksosisi2920owjwj jwkwkwiw8w9wooplakaisi jsi2929owkwi3ijnn jsjsididjsneie838ejen 
-jdidjdn jsie9e8ejekepn mskps98isjsns kjsjsi jsjsns jsksi39399kjdj jdnd jdjdnujdudi jsjsijsjjkdk nsjjsjsisisis jsis jsisi jeiw929wplsk jsjsjs jsiseusisj nsjsjjdi jsj
-jsjsjsjsnjsis899woek ksiw92o2929pao jakskxnxjjjskskoosooso jsjsiisie kwowowjwnw kei2io3ijjoaia jaishwoiie9eijjennzoo
-9keijnsopxjneiwow920okskskskenkke jsjsjsje jsjsj jsjsj jsjjj29200pajkenij3nneoe99e jsjsk jsjjdkdejdiei nsjjjjjjjjeiei jeieieie js8eisidiijjjjejiij
-ksieijsjsieoeo3o3k3j jsjdndjdjxi jdjdisiisjsj nskw0293i3j nejsjsjsis nsjsjsjsnnsjs nejeke neenndjdj kwowieieijsjjsjs8n3 jekeiejejejns nwka9s8829o
-jdjkkkjjxj jdjijdyu jeoe0pjuuueg8g8o jeieiejejeje nejeieiiisisi jsjsjejbjejemndjdjjdj ndjd jsisjjsjsj jejejjeje jjjs jskiidjcckfjsjsljhhvijuu
-idjdjd9d9dijiididjd ndkdj  djdjd99wpow jsjsnjsiskskekeo393po kdkdkkeleleoeoeoe nekeke930303okmsjsi9939knen nsjsken ndkx kdoeoejej mekjdiisksk
-nndndjdjjjxjj jjjsjs jsisj nsjsibuuuhbb nkhvbiyfviijnbujjb bjj  jjb   bhh bjioij bjjbksisi jsisi jsjsisokjsjsisisjsjshjj nb7b5f4fbkppi hub bh
-ksksjsjkkssjsjsjsjziiisjjsjsnjheheh hsjdh hdhdjdj uuuuuuuuiujjjjjuhubb6 yb6b6n7n7h7ghhh jouuggggg jkouhh hyukjhvjj bjgbhgujhbv huu hjjjhh hjhhuoiijjgvh
-ksksjznjjjjg bkoihgredghu byuujhuiiuhhb hyyhbuuy h69j8jf5bhykjg jjghjkiihyhhhhhu hu bhhhghhhjkjjhhfgjhhjkjhh hhuugv hujkjhhv huiyyyy
-guo9uklj b  vhcdsw46u8990oimnggyyyuii00877yy huytggyyuyuiiu677899ookmby665444tgfdde443etuhhiyuv hhhkuyty yt4dgp09kjhvuuy jy44ujv jii876hh jjhyuoiii jsjdkisjusyhusjijsihs9jw
-ki987uj yy5556ujhfwze33789pp9lkmbikj776hbvy55gvf43dxx32sxswa113fg hioiyyjiuhy67890llmn  bjuyyhbkiy65tgb ff443eddssaq12
- mmkkko99iijjnbhu766yggvcffr443dxxzse322qaDthuuiioouuuuioo  ko7ytt vfryh  nko85rv bjyt6uhhvvce35  nkp9y422wdc  nji97yyb vgyyyhhhgt322wev  koo77990oi7666yg hyuio7yyy yiu5hi7i
-7900lk544fcczd443221wsszftyinhn8nk87j6hh6h6n67jk9o0lii9i hi bjyy  ghhhjjjjkob  mop977hby654ffze321ash jiiiu8hbvct5ewdf08uhbvftxxr7ujklo998hhbbbnhvhyvhhhhh
-00pplkmjj88o877jjbvvy76y6655tgvvcxfrr5dxzsaq12ybyj9kk99k9jhhvhu jjj8j7hh65gg56v6pnn ko98uby6tgvct55tgvccr43322www21wwseeszxdsedc bbh9o
-ook9plmm9iini8unnj787765gbft54tvxe2tiy3jjhbjiuhj nkn nkouiok
-ibjh8gvv vho00lk21axxv bhhggghuiihht67ijt6 bjjbji
-ip0plkmnbi vfr543exx  cxxzd4  r432d21wdv bjiooyyijhuuh jiibb
-09po8ikk7ijjohhbbb  ccg4tfc xxzdr443esf  fe31qwsfgu nkjb 
-yo09opijkopu9pbvhhjgyugvhj jhbbjjnu786646tfhtcv  ccxcxx vddrdzf  ffddt fdet54355 vfr31a
-o098ookjnn mmlijn vvhgt577578 643efde4effxc xzssw aeeq3r e2113r4
-09ii8opoikkllkkkknmmnj bnnbhhhji76tygv buhghk tr ffddcvrdxvzsdawwb rrwer443222421e11ef 
-  lkmopi8oiioljjmmn bbv bbbhhghu huuuyu8867 65445trrfddf cddx zzdas 34rv 
-090po87ippllkjjjklkmmlln  bvb jhhu jiuvcc czxz cdfdf frtty544 
-890poiu7890knn nmmln v vvvhhgy hu856 gt545f cddxzseew ssww23 jsisidiuuuisi
-ososidje ididiriiij77  juuhhhuuuhb hjhb bjiii8899o kko87ujjjjjjj jjiiuiuuuh  ml0975322sj
-099oopknknnk ml0767iu bvgy555tfc cccfffrt44rf xzsswrw223 900ppiikopmmbbu7uuhb hygjiii
-8900poi88iioplkjjbnmmbvvvhjgyyui8766533rr rrdfcxxxvv cxxssseeaq13 hhhjjhh
-  
-90988iopplj mkjkpl  nkoolmn  vbbhguu hyy776677 gcccvv xdgfdrr rr5445tfc 
-80olknnmmnbbb  bvhjhhyu huy76677 cccff ffttr556443 da adrwq2344tg jjuhhi 
-80o8ii99 i880ppii jklnbnmn   bbvvbjj hhu7y78 hhu7667655tgf vchjvjjvb nmc xczzfdft r5434 312asd 
-890piu7ujopljn nhokn  mmlih bvc bv hv hyyu7y766 cccwr211qw hioiyyjiuhy67890llmn890
-kllllmnb nhhhhh njhuhv jii7uh nk  bjio987h bvvt6njs jsiskekejej
-keiejjjjjjjjjjjbbh67   bjo7yv  mkp88hh njjjjg gt432wd bhy457ijjjnjnko0oyt4er
-o998j kojhn njggv bki87u jko99uh ko8uh bhhhhhhh  ji8u jjiij jnnnnjjjhh89pohnf
+"use client";
 
-jjhiikjhuiuvhhg hji8hbno8uh njnhhugv bjijnb jjiuhj jijn jijnbjuujjuj juuj jjjko9 
+import { useState } from "react";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
+import { Card } from "@/components/ui/card";
+import { Input } from "@/components/ui/input";
+import { NativeSelect } from "@/components/ui/native-select";
+import { Textarea } from "@/components/ui/textarea";
+import { useSchoolData } from "@/lib/school/school-data-provider";
+import { AnnouncementText } from "@/components/shared/rich-text";
+import type { Role } from "@/lib/types";
 
-iiyu8ool99pomnbvvv gu7h  y54r vffdx t544  vr421qa tt3es3 gyio90om niuhb  bj  jejssoijd
-ook989poiknn  nnooo99 jkkko9i kk8jbnb  bhhh huuuu77y ccf fftr45 434ed xsaw23
+const diary = [
+  ["31 Oct", "School Sports Day", "School grounds · wear your house colours"],
+  ["05 Nov", "Mathematics homework due", "Year 10 · 10-A"],
+  ["06 Nov", "Mathematics assessment", "Period 3 · Room 14"],
+];
 
-890loiiokmnnb nnb bg vhhvyu hgy665t66 teeedd cxz dss ae4w322gg bhjikkjjjjjb njjskkzkso0pwljsi090
-ii80loiklnnbm vvvyyy755rgvccf xxdccc fdf fft5443 4223ws daa11213e bhiijjb890l
-899poiijoklljnnkln kmn bvvc yyyu7yt6755tgh hhg544fx  xxxfdsaee4432qwrggb gygikii
-990pllknbnk i8ikljnmmbvvh bhh huu76777yy vcc  cft5 t545544edd xzd fsae rwq144 hjhb89
-790pi8uooliujklmnb bbbhuuu7877 5654gyfggkk4jtcvcc cxd xrr5rrt 433w dsaw212qs1e
-mnjkllkootjpoiii89900 bvh hhuuuu776g vcgv ggt6655 xccxcv xdgdrt rrr544455 4333edszx satisfies2
-123323wsdazx cfgg ftksksnrt4456uubb  nmnm00p8olkm bbguiug hdukk9hkjb history
-mnnnn njjkoop098 bvvjj877887 bfccv vggygty765 4544ddx xzs dsaw2kjn342r08uhbvftxxr7ujklo998hhbbbnhvhyvhhhhh
-899olljnmnn bbvvv vvghg gyy765tfgfc crrd cfcxzfsww124fv bnbjkkhy6778900p0pojkmn 
-2adzc vfttt56 bbhu7789ojn nmkllpp9ijhh hygtyug hhuh bjio97jm njhvvjnnjjbk
-9000pi88iopljjkllmb  bvbhh hhuuuuuu7887788 55565tygfc  cxx xzdtr tr4535 
- a6098ogo ncnnck jckvohp9 u474hfbxc zczc zcXfs gsta gagTat251jdjsi
-9909ioo poigoykhmmmvn bchcururur747476jd bxyeyey6363tdgxv cCzfafs FormData
-jkju7 ujiij jjjjhjjjjjjijjiijji999uuj
-jnkmiihhjiii   jk9ih jjn bjhhhh fffsdeeszzzzzsk99ikjjjkjjjjjjbb
-ooijjnn nnjj njj jjjjjj hjjjjjjju sjsisisisisbwo2029ska kskaonzmow9
-owokwn2o276178q9aiqhvsnkkmnh bhb njhb bbb bjjjj jjjhjuu7uh hhhhh hjijjuuuuh hjhb
-jjhhhn uj jjjhhhnnj  nnjjj jjujiiiiiijiijjjiiiuuuuuujv njio99u huj j2i27wuaioo
-9998jlkjnnjjjjjjjii678jiooootfffff  bjjhuuhsnjUuahbbajiiahjaiaia7jsjsnshbbsbjsushsjsushshshshsuhhsbbhs
-ii8899io98iooo7
-6 h756y 6tt 55tf 454rf 3322wwsaaws  xxcddvvgghbvh bjjnnjuuijb
-ii99oiidk ndkdkk099po kkkjmvn bcbfjjru47784 y36e5t3fgegsvzv xFaffafarrqrqrq4141331 
-7070ooptpy996opllhljjmbm   cbcbxb  bhdhrh hrurury hyetgsrfgsvzvczc czfafadad xFaffafarrqrqrq4141331
+const libraryBooks = [
+  { title: "The Young Scientist", author: "A. Bello", subject: "Science" },
+  { title: "World History: A Student Guide", author: "M. Okafor", subject: "History" },
+  { title: "Essential Mathematics, Book 2", author: "S. Nair", subject: "Mathematics" },
+  { title: "Stories from Around the World", author: "L. Mensah", subject: "English" },
+];
+
+const serviceDetails: Record<string, { heading: string; description: string; entries: [string, string, string][] }> = {
+  "Lesson plan": { heading: "Lessons for your classes", description: "Follow the topics scheduled for your current sample timetable.", entries: [["English", "Reading and comprehension", "Today · 09:00 · Room 12"], ["Mathematics", "Linear equations", "Today · 10:30 · Room 14"], ["Biology", "Cells and living systems", "Today · 12:00 · Lab 01"]] },
+  "Exam details": { heading: "Upcoming assessments", description: "Check sample assessment dates and where to go.", entries: [["Mathematics", "Term assessment", "06 Nov · Period 3 · Room 14"], ["Science", "Revision quiz", "10 Nov · Period 2 · Lab 02"]] },
+  "Online classes": { heading: "Online classes", description: "Join links are shared by your school when a class is scheduled.", entries: [["No online classes scheduled", "Your live class links will appear here.", "Ask your teacher if you expected a session"]] },
+  "Online exam": { heading: "Online exams", description: "Online exam delivery is not configured in this demo.", entries: [["No online exam is open", "Your school has not published an online assessment here.", "Check Exam details for the sample schedule"]] },
+  Activity: { heading: "School activities", description: "Activities and clubs shared with the student community.", entries: [["Sports Day", "Represent your house and take part in the school events.", "31 Oct · School grounds"], ["Science club", "Bring your observation notes to the next meeting.", "10 Nov · Science lab"]] },
+  "Route details": { heading: "School transport", description: "Transport information is added by your school’s transport office.", entries: [["No route assigned", "There is no transport route linked to this demo student.", "Contact the school office to update transport details"]] },
+  Birthday: { heading: "Birthdays", description: "Student birthdays are shown only when the school has added them.", entries: [["No birthdays to show", "There are no upcoming birthday records for this class.", "Check again later"]] },
+  "My profile": { heading: "Student profile", description: "Review the sample identity details linked to your workspace.", entries: [["Student", "Maya Sharma", "ST-2026-0842"], ["Class", "Year 10 · 10-A", "Current academic session"], ["Profile changes", "Contact your school administrator", "Profile editing is not configured in this demo"]] },
+};
+
+function ParentRequestForm({ student }: { student: string }) {
+  const { data, updateData } = useSchoolData();
+  const [message, setMessage] = useState("");
+
+  function submit(event: React.FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const form = new FormData(event.currentTarget);
+    const topic = String(form.get("topic") ?? "");
+    const body = String(form.get("message") ?? "").trim();
+    if (!topic || !body) {
+      setMessage("Choose a topic and describe what you need.");
+      return;
+    }
+    updateData((current) => ({
+      ...current,
+      parentRequests: [{
+        id: `REQ-${Date.now()}`,
+        student,
+        topic,
+        message: body,
+        status: "Received",
+        postedAt: new Date().toLocaleDateString("en"),
+      }, ...(current.parentRequests ?? [])],
+    }));
+    event.currentTarget.reset();
+    setMessage("Request received in this browser’s demo workspace.");
+  }
+
+  return <section className="feature-page">
+    <div className="prototype-notice"><strong>Contact your school</strong>Requests are saved in this browser only; they are not delivered to school staff.</div>
+    <Card className="form-card"><form onSubmit={submit}><h2>Send a request about {student}</h2><div className="form-grid">
+      <label>Request topic<NativeSelect name="topic" required><option value="">Choose a topic</option><option>Attendance correction</option><option>Student record update</option><option>Meeting request</option><option>Wellbeing support</option><option>Other</option></NativeSelect></label>
+      <label className="form-field-wide">How can the school help?<Textarea name="message" rows={4} maxLength={1000} required placeholder="Include the details the school needs to review your request." /></label>
+    </div><div className="form-actions"><span className="sample-caption">A real request channel requires a connected school account.</span><Button type="submit">Save request</Button></div></form></Card>
+    {message && <p role="status" className={message.startsWith("Choose") ? "form-error" : "inline-success"}>{message}</p>}
+    {(data.parentRequests ?? []).filter((request) => request.student === student).map((request) => <Card className="announcement-card" key={request.id}><div className="notice-header"><Badge variant="secondary">{request.status}</Badge><small>{request.postedAt}</small></div><h2>{request.topic}</h2><p>{request.message}</p></Card>)}
+  </section>;
+}
+
+function FamilyRequestsInbox() {
+  const { data, updateData } = useSchoolData();
+  const requests = data.parentRequests ?? [];
+  function markReviewed(id: string) {
+    updateData((current) => ({
+      ...current,
+      parentRequests: (current.parentRequests ?? []).map((request) => request.id === id ? { ...request, status: "Reviewed" } : request),
+    }));
+  }
+  return <section className="feature-page">
+    <div className="prototype-notice"><strong>Family requests</strong>Requests are browser-local demo records and are not delivered to families or staff.</div>
+    <div className="announcement-list">{requests.map((request) => <Card className="announcement-card" key={request.id}>
+      <div className="notice-header"><Badge variant={request.status === "Reviewed" ? "default" : "warning"}>{request.status}</Badge><small>{request.postedAt}</small></div>
+      <h2>{request.topic}</h2><p><strong>Student:</strong> {request.student}</p><p>{request.message}</p>
+      {request.status === "Received" && <Button onClick={() => markReviewed(request.id)}>Mark reviewed</Button>}
+    </Card>)}</div>
+    {!requests.length && <Card className="empty-panel"><p>No family requests have been saved yet.</p></Card>}
+  </section>;
+}
+
+export function SchoolServicesPage({ page, role, child = "Maya Sharma" }: { page: string; role: Role; child?: string }) {
+  const { data } = useSchoolData();
+  const [query, setQuery] = useState("");
+  const details = serviceDetails[page];
+  const student = role === "Parent / Guardian" ? child : "Maya Sharma";
+  if (page === "Parent request") return <ParentRequestForm student={student} />;
+  if (page === "Family requests") return <FamilyRequestsInbox />;
+
+  if (page === "School diary" || page === "Holidays") {
+    const entries = page === "Holidays" ? [["31 Oct", "School Sports Day", "School event · classes follow the published schedule"], ["25 Dec", "Christmas holiday", "School closed"]] : diary;
+    return <section className="feature-page"><Card className="directory-card"><div className="feature-table-heading"><div><h2>{page === "Holidays" ? "School holidays and closures" : "School diary"}</h2><p>Dates and reminders for the student community.</p></div></div><div className="student-service-list">{entries.map(([date, title, detail]) => <div className="student-service-row" key={title}><Badge variant="secondary">{date}</Badge><div><strong>{title}</strong><p>{detail}</p></div></div>)}</div></Card></section>;
+  }
+
+  if (page === "Library") {
+    const books = libraryBooks.filter((book) => `${book.title} ${book.author} ${book.subject}`.toLowerCase().includes(query.trim().toLowerCase()));
+    return <section className="feature-page"><label className="search-field"><span className="sr-only">Search library</span><Input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search books by title, author or subject" /></label><div className="student-service-grid">{books.map((book) => <Card className="setting-card" key={book.title}><Badge variant="secondary">{book.subject}</Badge><strong>{book.title}</strong><small>{book.author} · Sample catalogue</small></Card>)}</div>{!books.length && <Card className="empty-panel"><p>No books match “{query}”. Try another title or subject.</p></Card>}</section>;
+  }
+
+  if (["Messages", "Circulars", "News"].includes(page)) {
+    const classSection = role === "Parent / Guardian"
+      ? child === "Rohan Sharma" ? "Year 7 · 7-B" : "Year 10 · 10-A"
+      : role === "Teacher" ? "Year 10 · 10-A" : "";
+    const matchingAnnouncements = data.announcements.filter((item) => {
+      if (item.scope === "class") return Boolean(classSection) && item.classSection === classSection;
+      if (role === "School Admin" || role === "Principal" || role === "Coordinator" || role === "Registrar / Bursar") return true;
+      if (role === "Teacher") return ["All families", "Teaching staff"].includes(item.audience);
+      return ["All families", "All students", "Parents and guardians"].includes(item.audience);
+    });
+    return <section className="feature-page"><div className="announcement-list">{matchingAnnouncements.map((item) => <Card className="announcement-card" key={item.id}><div className="notice-header"><Badge variant="secondary">{item.scope === "class" ? item.classSection : item.audience}</Badge><small>{item.author ? `${item.author} · ` : ""}{item.postedAt}</small></div><h2>{item.title}</h2><AnnouncementText text={item.message} /></Card>)}</div>{!matchingAnnouncements.length && <Card className="empty-panel"><p>No {page.toLowerCase()} have been shared with your class.</p></Card>}</section>;
+  }
+
+  if (!details) return <Card className="empty-panel"><p>This student service is not available in the demo workspace.</p></Card>;
+  return <section className="feature-page"><div className="prototype-notice"><strong>{page}</strong>Sample information only. Live links, exam delivery and profile changes require school configuration.</div><Card className="directory-card"><div className="feature-table-heading"><div><h2>{details.heading}</h2><p>{details.description}</p></div></div><div className="student-service-list">{details.entries.map(([title, detail, note]) => <div className="student-service-row" key={title}><div><strong>{title}</strong><p>{detail}</p></div><span>{note}</span></div>)}</div></Card></section>;
+}
