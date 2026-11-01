@@ -4,11 +4,29 @@ import {
   CreateAnnouncementDto,
   UpdateAnnouncementDto,
 } from './dto';
-import { User } from '../../generated/prisma';
+import { $Enums, User } from '../../generated/prisma';
 import { PrismaService } from '../prisma/prisma.service';
 
 @Injectable()
 export class AnnouncementsService {
+  private readonly studentsAnnouncement: $Enums.AnnouncementTargetAudience[] = [
+    'parent_student',
+    'staff_student',
+    'students',
+    'whole_school',
+  ];
+  private readonly staffAnnouncement: $Enums.AnnouncementTargetAudience[] = [
+    'parent_staff',
+    'staff',
+    'staff_student',
+    'whole_school',
+  ];
+  private readonly parentAnnouncement: $Enums.AnnouncementTargetAudience[] = [
+    'parent',
+    'parent_staff',
+    'parent_student',
+    'whole_school',
+  ];
   constructor(private readonly prisma: PrismaService) {}
   async create(
     createAnnouncementDto: CreateAnnouncementDto,
@@ -33,12 +51,47 @@ export class AnnouncementsService {
     return announcement;
   }
 
-  findAll(user: User) {
-    return `This action returns all announcements`;
+  async findAll(user: User): Promise<AnnouncementResponseDto[]> {
+    const announcements = await this.prisma.announcement.findMany({
+      where: {
+        schoolId: user.schoolId,
+        targetAudience: {
+          in:
+            user.role === 'student'
+              ? this.studentsAnnouncement
+              : user.role === 'parent'
+                ? this.parentAnnouncement
+                : user.role === 'teacher' || user.role === 'school_admin'
+                  ? this.staffAnnouncement
+                  : ['whole_school'],
+        },
+      },
+    });
+
+    if (announcements.length === 0)
+      throw new NotFoundException('No announcements yet');
+
+    return announcements;
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} announcement`;
+  async findOne(id: string, user: User): Promise<AnnouncementResponseDto> {
+    const announcement = await this.prisma.announcement.findFirst({
+      where: {
+        schoolId: user.schoolId,
+        targetAudience: {
+          in:
+            user.role === 'student'
+              ? this.studentsAnnouncement
+              : user.role === 'parent'
+                ? this.parentAnnouncement
+                : user.role === 'teacher' || user.role === 'school_admin'
+                  ? this.staffAnnouncement
+                  : ['whole_school'],
+        },
+      },
+    });
+    if (!announcement) throw new NotFoundException('Announcement not found');
+    return announcement;
   }
 
   update(id: number, updateAnnouncementDto: UpdateAnnouncementDto) {

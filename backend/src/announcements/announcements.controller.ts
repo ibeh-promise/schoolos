@@ -36,12 +36,12 @@ export class AnnouncementsController {
   }
 
   @Get()
-  findAll() {
-    return this.announcementsService.findAll();
+  findAll(@GetUser() user: User) {
+    return this.announcementsService.findAll(user);
   }
 
-  findOne(@Param('id') id: string) {
-    return this.announcementsService.findOne(+id);
+  findOne(@Param('id') id: string, @GetUser() user: User) {
+    return this.announcementsService.findOne(id, user);
   }
 
   @Roles(['school_admin'])
