@@ -8,6 +8,7 @@ export default function ward() {
       Age: "DOB 14 apr 2011",
       BloodGroup: "O+",
       Genotype: "AA",
+      EnrollmentDate: "14th April 2023",
       status: "active"
     },
     {
@@ -18,6 +19,7 @@ export default function ward() {
       Age: "DOB 14 apr 2011",
       BloodGroup: "O+",
       Genotype: "AA",
+      EnrollmentDate: "11th Sept 2022",
       status: "active"
     },
   ];
@@ -28,10 +30,10 @@ export default function ward() {
         Academic Profile, class placement information, and enrollment records
         for your children.
       </p>
-      <div className="grid grid-cols-2 gap-2">
+      <div className="grid grid-cols-2 gap-2 mt-5">
         {wards.map((ward, index) => (
           <div className="border rounded-md" key={index}>
-            <div className="bg-[#f2f2f2]">
+            <div className="bg-[#f2f2f2] border-b">
               <div className="p-5 flex gap-2">
                 <div className="p-3 px-4 rounded-full bg-black text-white ">
                   O
@@ -47,10 +49,22 @@ export default function ward() {
                 </div>
               </div>
             </div>
-            <div className="p-6 grid grid-cols-3 gap-2 ">
-                <div className="">
+            <div className="p-6 grid grid-cols-2 gap-2 ">
+                <div className="border p-3 rounded-sm">
                     <p className="text-[12px] text-zinc-500">Classroom arm:</p>
                     <p className="font-semibold text-[13px]">{ward.class}</p>
+                </div>
+                <div className="border p-3 rounded-sm">
+                    <p className="text-[12px] text-zinc-500">Gender & Age:</p>
+                    <p className="font-semibold text-[13px]">{ward.Gender} . {ward.Age}</p>
+                </div>
+                <div className="border p-3 rounded-sm">
+                    <p className="text-[12px] text-zinc-500">Blood & Genotype:</p>
+                    <p className="font-semibold text-[13px]">{ward.BloodGroup} . {ward.Genotype}</p>
+                </div>
+                <div className="border p-3 rounded-sm">
+                    <p className="text-[12px] text-zinc-500">Enrolled Since:</p>
+                    <p className="font-semibold text-[13px]">{ward.EnrollmentDate}</p>
                 </div>
             </div>
           </div>
