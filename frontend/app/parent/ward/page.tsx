@@ -3,6 +3,7 @@ export default function ward() {
         {
             name: "Oluwaseun Chukwu David",
             class: "jss 2 Gold",
+            adm: "ARA/2023/043",
             Gender: "Male",
             Age: "DOB 14 apr 2011",
             BloodGroup: "O+",
@@ -11,6 +12,7 @@ export default function ward() {
         {
             name: "Chioma Eze Miracle",
             class: "SSS1 science",
+            adm: "ARA/2023/044",
             Gender: "Female",
             Age: "DOB 14 apr 2011",
             BloodGroup: "O+",
