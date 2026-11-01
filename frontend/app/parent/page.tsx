@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { DollarSign, User2 } from "lucide-react";
+import { Calendar, DollarSign, User2 } from "lucide-react";
 
 export default function ParentDashBoard() {
   return (
@@ -28,23 +28,38 @@ export default function ParentDashBoard() {
         <div className="p-10 border rounded-md bg-[#fdfcf9]">
           <div className="flex justify-between items-center text-xs">
       <h1 className="font-semibold capitalize">TOTAL OUTSTANDING FEES</h1>
-      <span className="text-[25px]">₦</span>
-      
+      <div className="p-5">
+        <DollarSign className="text-zinc-500 text-[10px]" />
+      </div>
           </div>
-          <p className="text-3xl text-black"> ₦20 </p>
-          <p className="text-zinc-500 text-xs">All fees cleared</p>
+          <p className="text-3xl text-black"> ₦0 </p>
+          <p className="text-zinc-500 text-xs">ALL FEES CLEARED</p>
         </div>
         <div className="p-10 border rounded-md bg-[#fdfcf9]">
           <div className="flex justify-between items-center text-xs">
       <h1 className="font-semibold capitalize">CURRENT TERM</h1>
       <div className="p-5">
-        <DollarSign className="text-zinc-500 text-[10px]" />
+        <Calendar className="text-zinc-500 text-[10px]" />
       </div>
           </div>
           <p className="text-3xl text-black"> FIRST TERM </p>
           <p className="text-zinc-500 text-xs">2024/2025 Academic Session</p>
         </div>
       </div> 
+      <div className="grid grid-cols-2 gap-5 mt-5">
+        <div className="">
+          <h1>My Children / Ward</h1>
+          <p>Academic enrollment and class placement details</p>
+          <div className="">
+            <div className="">
+              <div className="">
+                <p>Oluwaseun Chukwu David </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className=""></div>
+      </div>
     </div>
   );
 }
