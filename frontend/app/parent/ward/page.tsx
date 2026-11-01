@@ -1,3 +1,6 @@
+import { Button } from "@/components/ui/button";
+import { MedalIcon } from "lucide-react";
+
 export default function ward() {
   const wards = [
     {
@@ -49,7 +52,7 @@ export default function ward() {
                 </div>
               </div>
             </div>
-            <div className="p-6 grid grid-cols-2 gap-2 ">
+            <div className="p-6 grid grid-cols-2 gap-2 border-b">
                 <div className="border p-3 rounded-sm">
                     <p className="text-[12px] text-zinc-500">Classroom arm:</p>
                     <p className="font-semibold text-[13px]">{ward.class}</p>
@@ -67,6 +70,9 @@ export default function ward() {
                     <p className="font-semibold text-[13px]">{ward.EnrollmentDate}</p>
                 </div>
             </div>
+            <div className="p-5">
+                <Button variant="outline" className="w-full"> <MedalIcon className="w-4 h-4" /> Report Card </Button>
+            </div> 
           </div>
         ))}
       </div>
