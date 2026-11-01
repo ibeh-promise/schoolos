@@ -48,12 +48,16 @@ export default function ParentDashBoard() {
       </div> 
       <div className="grid grid-cols-2 gap-5 mt-5">
         <div className="">
-          <h1>My Children / Ward</h1>
-          <p>Academic enrollment and class placement details</p>
+          <h1 className="font-semibold">My Children / Ward</h1>
+          <p className='text-[15px] text-zinc-500'>Academic enrollment and class placement details</p>
           <div className="">
-            <div className="">
+            <div className="flex justify-between items-center">
               <div className="">
                 <p>Oluwaseun Chukwu David </p>
+                <p></p>adm: ARA/2023/043 . jss 2 Gold
+              </div>
+              <div>
+                
               </div>
             </div>
           </div>
