@@ -9,7 +9,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { LayoutDashboard, School } from "lucide-react";
+import { LayoutDashboard, School, User2 } from "lucide-react";
 
 export default function Sidebar() {
   return (
@@ -67,12 +67,22 @@ export default function Sidebar() {
           </DropdownMenuContent>
         </DropdownMenu>
       </div>
-      <div className="p-5 text-[12px]">
-            <p>OVERVIEW</p>
-            <button className="flex gap-2 items-center">
+      <div className="p-5 text-[12px] w-full">
+            <p className="text-xs font-semibold mt-4 text-zinc-500">OVERVIEW</p>
+            <Button className="flex gap-2 items-center justify-start w-full rounded-sm">
               <LayoutDashboard/>
               Dashboard 
-            </button> 
+            </Button>
+
+            <p className="text-xs font-semibold mt-4 text-zinc-500  ">WARD MANAGEMENT</p>
+            <div className="flex flex-col gap-2">
+              <Button variant="ghost">
+                <div className="flex gap-2 items-center justify-start text-zinc-500">
+                  <User2 />
+                  <p>My Wards</p>
+                  </div>  
+              </Button>
+            </div>
       </div>
     </div>
   );
