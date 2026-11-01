@@ -6,6 +6,7 @@ import {
 } from './dto';
 import { $Enums, User } from '../../generated/prisma';
 import { PrismaService } from '../prisma/prisma.service';
+import { GeneralOkResponseDto } from '../common/dto';
 
 @Injectable()
 export class AnnouncementsService {
@@ -77,6 +78,7 @@ export class AnnouncementsService {
   async findOne(id: string, user: User): Promise<AnnouncementResponseDto> {
     const announcement = await this.prisma.announcement.findFirst({
       where: {
+        id,
         schoolId: user.schoolId,
         targetAudience: {
           in:
@@ -94,11 +96,56 @@ export class AnnouncementsService {
     return announcement;
   }
 
-  update(id: number, updateAnnouncementDto: UpdateAnnouncementDto) {
-    return `This action updates a #${id} announcement`;
+  async update(
+    id: string,
+    updateAnnouncementDto: UpdateAnnouncementDto,
+    user: User,
+  ) {
+    const { content, priority, targetAudience, title } = updateAnnouncementDto;
+    const announcement = await this.prisma.announcement.findFirst({
+      where: {
+        id,
+        schoolId: user.schoolId,
+        targetAudience: {
+          in:
+            user.role === 'student'
+              ? this.studentsAnnouncement
+              : user.role === 'parent'
+                ? this.parentAnnouncement
+                : user.role === 'teacher' || user.role === 'school_admin'
+                  ? this.staffAnnouncement
+                  : ['whole_school'],
+        },
+      },
+    });
+    if (!announcement) throw new NotFoundException('Announcement not found');
+    return await this.prisma.announcement.update({
+      where: { id },
+      data: { content, priority, targetAudience, title },
+    });
   }
 
-  remove(id: number) {
-    return `This action removes a #${id} announcement`;
+  async remove(id: string, user: User): Promise<GeneralOkResponseDto> {
+    const announcement = await this.prisma.announcement.findFirst({
+      where: {
+        id,
+        schoolId: user.schoolId,
+        targetAudience: {
+          in:
+            user.role === 'student'
+              ? this.studentsAnnouncement
+              : user.role === 'parent'
+                ? this.parentAnnouncement
+                : user.role === 'teacher' || user.role === 'school_admin'
+                  ? this.staffAnnouncement
+                  : ['whole_school'],
+        },
+      },
+    });
+    if (!announcement) throw new NotFoundException('Announcement not found');
+
+    await this.prisma.announcement.delete({ where: { id } });
+
+    return { messages: 'Announcement deleted successfully' };
   }
 }

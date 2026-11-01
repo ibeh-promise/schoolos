@@ -49,13 +49,14 @@ export class AnnouncementsController {
   update(
     @Param('id') id: string,
     @Body() updateAnnouncementDto: UpdateAnnouncementDto,
+    @GetUser() user: User,
   ) {
-    return this.announcementsService.update(+id, updateAnnouncementDto);
+    return this.announcementsService.update(id, updateAnnouncementDto, user);
   }
 
   @Roles(['school_admin'])
   @Delete(':id')
-  remove(@Param('id') id: string) {
-    return this.announcementsService.remove(+id);
+  remove(@Param('id') id: string, @GetUser() user: User) {
+    return this.announcementsService.remove(id, user);
   }
 }
