@@ -87,12 +87,11 @@ export default function Sidebar() {
                 </Link>
                   </div>  
               </Button>
-
               <Button variant={pathname == "report-cards" ? "default" : "ghost"} className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
-                  <Link href="/parent/report-cards">
-                  <Medal />
-                  <p>Report Cards</p>
+                  <Link href="/parent/report-cards" className="flex gap-2">
+                    <Medal />
+                    <p>Report Cards</p>
                   </Link>
                   </div> 
               </Button>
