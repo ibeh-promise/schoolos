@@ -64,7 +64,12 @@ export default function () {
     TerminalAverage: 82,
     AttendanceRate: 98,
   };
-
+  const remarks = [
+    {
+      teacher: "An outstanding performance this term. Maintained consistent academic excellence and exemplary conduct.",
+      principal: "Excellent result. Promoted with distinction and recommended for academic honors."
+    }
+  ];
   return (
     <div className="p-10 ">
       <div className="flex justify-between items-center border-b pb-4">
@@ -87,7 +92,7 @@ export default function () {
         <Button className="p-3">Oluwaseun (JSS 2 Gold)</Button>
         <Button variant="outline">Chioma (SS1 Science)</Button>
       </div>
-      <div className="border m-10 rounded-md flex justify-center items-center py-6">
+      <div className="border m-10 rounded-md flex justify-center items-center p-6">
         <div className="flex flex-col justify-center items-center border-b pb-10 ">
           <div className="bg-black rounded-full w-10 h-10 flex justify-center items-center mb-3">
             <School className="text-white" />
@@ -197,8 +202,31 @@ export default function () {
               </div>
             </div>
 
-            <div className="flex gap-3"></div>
+            <div className="flex gap-3">
+              <div className="p-4 rounded-sm border mt-6">
+              <p className="text-[12px]">Class Master's Remark:</p>
+                <p className="text-xs text-zinc-500">{remarks[0]?.teacher}</p>
+              <p className="text-[15px] mt-3">Signature_________. </p>
+              </div>
+               <div className="p-4 rounded-sm border mt-6 ">
+              <p className="text-[12px]">Class Master's Remark:</p>
+                <p className="text-xs text-zinc-500">{remarks[0]?.teacher}</p>
+              <p className="text-[15px] mt-3">Signature_________. </p>
+              </div>
+            </div>
+
           </div>
+            <p className="text-[11px] text-zinc-500 mt-4">
+              A1: 75-100 (Excellent)
+B2: 70-74 (Very Good)
+B3: 65-69 (Good)
+C4: 60-64 (Credit)
+C5: 55-59 (Credit)
+C6: 50-54 (Credit)
+D7: 45-49 (Pass)
+E8: 40-44 (Pass)
+F9: 0-39 (Fail) 
+            </p>
         </div>
       </div>
     </div>
