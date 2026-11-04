@@ -13,53 +13,49 @@ import {
 
 export default function () {
 
-  const invoices = [
-  {
-    invoice: "INV001",
-    paymentStatus: "Paid",
-    totalAmount: "$250.00",
-    paymentMethod: "Credit Card",
-  },
-  {
-    invoice: "INV002",
-    paymentStatus: "Pending",
-    totalAmount: "$150.00",
-    paymentMethod: "PayPal",
-  },
-  {
-    invoice: "INV003",
-    paymentStatus: "Unpaid",
-    totalAmount: "$350.00",
-    paymentMethod: "Bank Transfer",
-  },
-  {
-    invoice: "INV004",
-    paymentStatus: "Paid",
-    totalAmount: "$450.00",
-    paymentMethod: "Credit Card",
-  },
-  {
-    invoice: "INV005",
-    paymentStatus: "Paid",
-    totalAmount: "$550.00",
-    paymentMethod: "PayPal",
-  },
-  {
-    invoice: "INV006",
-    paymentStatus: "Pending",
-    totalAmount: "$200.00",
-    paymentMethod: "Bank Transfer",
-  },
-  {
-    invoice: "INV007",
-    paymentStatus: "Unpaid",
-    totalAmount: "$300.00",
-    paymentMethod: "Credit Card",
-  },
-]
-
   const reports = [
-    
+    {
+      subject: "Mathematics",
+      CA1: 18,
+      CA2: 17,
+      EXAM: 52,
+      TOTAL: 87,
+      GRADE: "A1",
+      REMARK: "Excellent"
+    }, {
+      subject: "Englishb Language",
+      CA1: 16,
+      CA2: 15,
+      EXAM: 47,
+      TOTAL: 78,
+      GRADE: "A1",
+      REMARK: "Excellent"
+    },{
+      subject: "Basic Science",
+      CA1: 17,
+      CA2: 16,
+      EXAM: 49,
+      TOTAL: 82,
+      GRADE: "A1",
+      REMARK: "Excellent"
+    },{
+      subject: "Basic Technology",
+      CA1: 15,
+      CA2: 14,
+      EXAM: 43,
+      TOTAL: 72,
+      GRADE: "B2",
+      REMARK: "Very Good"
+    }, {
+      subject: "Civic Education",
+      CA1: 19,
+      CA2: 18,
+      EXAM: 54,
+      TOTAL: 91,
+      GRADE: "A1",
+      REMARK: "Excellent"
+    }
+
   ]
 
   return (
@@ -89,7 +85,7 @@ export default function () {
           <div className="bg-black rounded-full w-10 h-10 flex justify-center items-center mb-3">
             <School className="text-white" />
           </div> 
-          <h1 className="text-2xl">Apex royal college</h1>
+          <h1 className="text-2xl font-semibold">APEX ROYAL COLLEGE</h1>
           <p className="text-[15px] font-semibold text-zinc-500 tracking-wider">
             MOTTO: EXCELLENCE, DISCIPLINE and INTEGRITY
           </p>
@@ -101,7 +97,7 @@ export default function () {
             TERMINAL ACADEMIC REPORT SHEET - FIRST TERM (2024/2025)
           </span>
           <div className="w-full">
-            <div className="grid grid-cols-4 w-full mt-9 gap-5 bg-[#f2f2f2] p-3 rounded-sm">
+            <div className="grid grid-cols-4 w-full my-9 gap-5 bg-[#f2f2f2] p-3 rounded-sm">
               <div className="">
                 <p className="text-xs">Student Name:</p>
                 <p className="font-semibold text-[14px]">
@@ -125,32 +121,51 @@ export default function () {
               </div>
             </div>
             <Table>
-      <TableCaption>A list of your recent invoices.</TableCaption>
+      <TableCaption className="text-xs">A1: 75-100 (Excellent)
+B2: 70-74 (Very Good)
+B3: 65-69 (Good)
+C4: 60-64 (Credit)
+C5: 55-59 (Credit)
+C6: 50-54 (Credit)
+D7: 45-49 (Pass)
+E8: 40-44 (Pass)
+F9: 0-39 (Fail)</TableCaption>
       <TableHeader>
-        <TableRow>
-          <TableHead className="w-[100px]">Invoice</TableHead>
-          <TableHead>Status</TableHead>
-          <TableHead>Method</TableHead>
-          <TableHead className="text-right">Amount</TableHead>
+        <TableRow >
+          <TableHead className="w-[100px] font-semibold">CURRICULUM SUBJECT</TableHead>
+          <TableHead className="font-semibold">CA1 (20)</TableHead>
+          <TableHead className="font-semibold">CA2 (20)</TableHead>
+          <TableHead className="font-semibold">EXAM (60)</TableHead>
+          <TableHead className="font-semibold">TOTAL</TableHead>
+          <TableHead className="font-semibold">GRADE</TableHead>
+          <TableHead className="text-right font-semibold">TEACHER'S REMARK</TableHead>
         </TableRow>
       </TableHeader>
-      <TableBody>
-        {invoices.map((invoice) => (
-          <TableRow key={invoice.invoice}>
-            <TableCell className="font-medium">{invoice.invoice}</TableCell>
-            <TableCell>{invoice.paymentStatus}</TableCell>
-            <TableCell>{invoice.paymentMethod}</TableCell>
-            <TableCell className="text-right">{invoice.totalAmount}</TableCell>
+      <TableBody className="mb-5">
+        {reports.map((report) => (
+          <TableRow key={report.subject}>
+            <TableCell className="font-medium">{report.subject}</TableCell>
+            <TableCell className="text-center">{report.CA1}</TableCell>
+            <TableCell className="text-center">{report.CA2}</TableCell>
+            <TableCell className="text-center">{report.EXAM}</TableCell>
+            <TableCell className="text-center">{report.TOTAL}</TableCell>
+            <TableCell className="text-center">{report.GRADE}</TableCell>
+            <TableCell className="text-center">{report.REMARK}</TableCell>
           </TableRow>
         ))}
       </TableBody>
-      <TableFooter>
+      {/* <TableFooter className="mt-100">
         <TableRow>
           <TableCell colSpan={3}>Total</TableCell>
           <TableCell className="text-right">$2,500.00</TableCell>
         </TableRow>
-      </TableFooter>
-    </Table>
+      </TableFooter>*/}
+    <div className="grid grid-cols-3 gap-5 mt-10">
+        <div className="">
+          
+        </div>
+    </div>
+    </Table> 
           </div>
         </div>
       </div>
