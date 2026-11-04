@@ -9,10 +9,9 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/ui/table"
+} from "@/components/ui/table";
 
 export default function () {
-
   const reports = [
     {
       subject: "Mathematics",
@@ -21,42 +20,50 @@ export default function () {
       EXAM: 52,
       TOTAL: 87,
       GRADE: "A1",
-      REMARK: "Excellent"
-    }, {
+      REMARK: "Excellent",
+    },
+    {
       subject: "Englishb Language",
       CA1: 16,
       CA2: 15,
       EXAM: 47,
       TOTAL: 78,
       GRADE: "A1",
-      REMARK: "Excellent"
-    },{
+      REMARK: "Excellent",
+    },
+    {
       subject: "Basic Science",
       CA1: 17,
       CA2: 16,
       EXAM: 49,
       TOTAL: 82,
       GRADE: "A1",
-      REMARK: "Excellent"
-    },{
+      REMARK: "Excellent",
+    },
+    {
       subject: "Basic Technology",
       CA1: 15,
       CA2: 14,
       EXAM: 43,
       TOTAL: 72,
       GRADE: "B2",
-      REMARK: "Very Good"
-    }, {
+      REMARK: "Very Good",
+    },
+    {
       subject: "Civic Education",
       CA1: 19,
       CA2: 18,
       EXAM: 54,
       TOTAL: 91,
       GRADE: "A1",
-      REMARK: "Excellent"
-    }
-
-  ]
+      REMARK: "Excellent",
+    },
+  ];
+  const total = {
+    cumulativeMark: 410,
+    TerminalAverage: 82,
+    AttendanceRate: 98,
+  };
 
   return (
     <div className="p-10 ">
@@ -84,7 +91,7 @@ export default function () {
         <div className="flex flex-col justify-center items-center border-b pb-10 ">
           <div className="bg-black rounded-full w-10 h-10 flex justify-center items-center mb-3">
             <School className="text-white" />
-          </div> 
+          </div>
           <h1 className="text-2xl font-semibold">APEX ROYAL COLLEGE</h1>
           <p className="text-[15px] font-semibold text-zinc-500 tracking-wider">
             MOTTO: EXCELLENCE, DISCIPLINE and INTEGRITY
@@ -121,51 +128,76 @@ export default function () {
               </div>
             </div>
             <Table>
-      <TableCaption className="text-xs">A1: 75-100 (Excellent)
-B2: 70-74 (Very Good)
-B3: 65-69 (Good)
-C4: 60-64 (Credit)
-C5: 55-59 (Credit)
-C6: 50-54 (Credit)
-D7: 45-49 (Pass)
-E8: 40-44 (Pass)
-F9: 0-39 (Fail)</TableCaption>
-      <TableHeader>
-        <TableRow >
-          <TableHead className="w-[100px] font-semibold">CURRICULUM SUBJECT</TableHead>
-          <TableHead className="font-semibold">CA1 (20)</TableHead>
-          <TableHead className="font-semibold">CA2 (20)</TableHead>
-          <TableHead className="font-semibold">EXAM (60)</TableHead>
-          <TableHead className="font-semibold">TOTAL</TableHead>
-          <TableHead className="font-semibold">GRADE</TableHead>
-          <TableHead className="text-right font-semibold">TEACHER'S REMARK</TableHead>
-        </TableRow>
-      </TableHeader>
-      <TableBody className="mb-5">
-        {reports.map((report) => (
-          <TableRow key={report.subject}>
-            <TableCell className="font-medium">{report.subject}</TableCell>
-            <TableCell className="text-center">{report.CA1}</TableCell>
-            <TableCell className="text-center">{report.CA2}</TableCell>
-            <TableCell className="text-center">{report.EXAM}</TableCell>
-            <TableCell className="text-center">{report.TOTAL}</TableCell>
-            <TableCell className="text-center">{report.GRADE}</TableCell>
-            <TableCell className="text-center">{report.REMARK}</TableCell>
-          </TableRow>
-        ))}
-      </TableBody>
-      {/* <TableFooter className="mt-100">
+              {/* <TableCaption className="text-xs">
+                A1: 75-100 (Excellent) B2: 70-74 (Very Good) B3: 65-69 (Good)
+                C4: 60-64 (Credit) C5: 55-59 (Credit) C6: 50-54 (Credit) D7:
+                45-49 (Pass) E8: 40-44 (Pass) F9: 0-39 (Fail)
+              </TableCaption> */}
+              <TableHeader>
+                <TableRow>
+                  <TableHead className="w-[100px] font-semibold">
+                    CURRICULUM SUBJECT
+                  </TableHead>
+                  <TableHead className="font-semibold">CA1 (20)</TableHead>
+                  <TableHead className="font-semibold">CA2 (20)</TableHead>
+                  <TableHead className="font-semibold">EXAM (60)</TableHead>
+                  <TableHead className="font-semibold">TOTAL</TableHead>
+                  <TableHead className="font-semibold">GRADE</TableHead>
+                  <TableHead className="text-right font-semibold">
+                    TEACHER'S REMARK
+                  </TableHead>
+                </TableRow>
+              </TableHeader>
+              <TableBody className="mb-5">
+                {reports.map((report) => (
+                  <TableRow key={report.subject}>
+                    <TableCell className="font-medium">
+                      {report.subject}
+                    </TableCell>
+                    <TableCell className="text-center">{report.CA1}</TableCell>
+                    <TableCell className="text-center">{report.CA2}</TableCell>
+                    <TableCell className="text-center">{report.EXAM}</TableCell>
+                    <TableCell className="text-center">
+                      {report.TOTAL}
+                    </TableCell>
+                    <TableCell className="text-center">
+                      {report.GRADE}
+                    </TableCell>
+                    <TableCell className="text-center">
+                      {report.REMARK}
+                    </TableCell>
+                  </TableRow>
+                ))}
+              </TableBody>
+              {/* <TableFooter className="mt-100">
         <TableRow>
           <TableCell colSpan={3}>Total</TableCell>
           <TableCell className="text-right">$2,500.00</TableCell>
         </TableRow>
       </TableFooter>*/}
-    <div className="grid grid-cols-3 gap-5 mt-10">
-        <div className="">
-          
-        </div>
-    </div>
-    </Table> 
+            </Table>
+            <div className=" w-full flex justify-around items-center mt-10 p-2 border rounded-md">
+              <div className="text-center">
+                <p className="text-[11px] text-zinc-500">Cumulative Mark:</p>
+                <p className="text-[16px] font-semibold">
+                  {total.cumulativeMark} Marks
+                </p>
+              </div>
+              <div className="text-center">
+                <p className="text-[11px] text-zinc-500">Terminal Average:</p>
+                <p className="text-[16px] font-semibold">
+                  {total.TerminalAverage} %
+                </p>
+              </div>
+              <div className="text-center">
+                <p className="text-[11px] text-zinc-500">Attendance Rate</p>
+                <p className="text-[16px] font-semibold">
+                  {total.AttendanceRate}%
+                </p>
+              </div>
+            </div>
+
+            <div className="flex gap-3"></div>
           </div>
         </div>
       </div>
