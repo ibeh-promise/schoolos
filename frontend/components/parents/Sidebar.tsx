@@ -96,19 +96,23 @@ export default function Sidebar() {
                   </div> 
               </Button>
 
+              <Link href="/parent/attendance">
               <Button variant={pathname == "attendance" ? "default" : "ghost"} className="flex gap-2 justify-start text-zinc-500">
                 <div className="flex gap-2  text-zinc-500">
                   <User2 />
                   <p>Attenendance</p>
                   </div>  
               </Button>
-              
-              <Button variant={pathname == "wards-link" ? "default" : "ghost"} className="flex gap-2 justify-start text-zinc-500">
-                <div className="flex gap-2  text-zinc-500">
-                  <User2 />
-                  <p>My Wards</p>Link
-                  </div>  
+               </Link>
+
+              <Link href="/parent/wards">
+                <Button variant={pathname == "wards-link" ? "default" : "ghost"} className="flex gap-2 justify-start text-zinc-500">
+                  <div className="flex gap-2  text-zinc-500">
+                    <User2 />
+                    <p>My Wards</p>
+                  </div>
               </Button>
+              </Link>
               
             </div>
       </div>
